@@ -1,0 +1,19 @@
+Guide activity,Description,Coverage,Evidence or remaining work
+1,Review Week 6 outputs,Covered,Current SQL and six-page PBIX reviewed
+2,Prioritise outputs for testing,Covered,"T01 to T11 identify KPI, join and scope checks"
+3,Validate important KPIs,Covered in scope,Source controls and all six supplied measure definitions reviewed
+4,Compare dashboard and source values,Covered in scope,Exact revenue card observed; two group controls confirmed
+5,Test filters and calculations,Covered in scope,Patient and financial interactions and clearing confirmed
+6,Investigate inconsistent results,Covered,"Revenue definitions, chart grouping and missing links investigated"
+7,Validate important findings,Covered,"Financial, clinical, feedback and inventory controls reproduced"
+8,Reassess attendance and no shows,Not assessable,No attendance field; approved resource clarification pending
+9,Check conclusions across segments,Covered in scope,Male and Female chronic-condition comparisons confirmed
+10,Identify errors and weaknesses,Covered,"Chart grouping, attribution and age boundary identified"
+11,Refine unclear visualisations,Covered in scope,Financial grouping checked; feedback rename and month order confirmed
+12,Improve usability and interpretation,Covered in scope,Unknown attribution explained; selected slicer and reset checks passed
+13,Reassess recommendations,Covered,Recommendations reflect data coverage and unavailable metrics
+14,Identify findings for other tracks,Covered,Data eligibility and linkage findings identified for sharing
+15,Share findings with HC POD tracks,Not completed,No partner secured and no actual shared validation recorded
+16,Document changes,Covered,Issue log and financial before and after record included
+17,Retest refined outputs,Covered in scope,Exact total and sampled groups checked; interactions confirmed
+18,Document remaining limitations,Covered,Limitations and Week 8 actions recorded explicitly

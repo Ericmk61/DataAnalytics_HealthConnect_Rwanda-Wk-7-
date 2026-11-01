@@ -1,0 +1,13 @@
+Step,Original task,Status,Evidence or remaining work
+1,Review Week 6 files and issues,Complete,Current files reviewed
+2,Write transition and testing record,Complete,"Transition, controls and test record prepared"
+3,Arrange a Data Science colleague and shared test,Not completed,No collaborating colleague secured as of 1 November
+4,Validate KPIs,Complete in scope,"Source controls, exact revenue card and DAX definitions checked"
+5,Test filters and findings,Complete in scope,Patient and financial interaction and reset checks confirmed
+6,Investigate inconsistencies and attendance,Covered with limits,No attendance target in current source
+7,Correct errors and improve visuals and insights,Done,Financial grouping and feedback rename confirmed
+8,Retest and save evidence,Done in scope,"Exact total, two group controls and saved evidence checked"
+9,Complete and document the shared test,Not completed,No actual shared test or evidence recorded
+10,Prepare the testing and refinement report,Prepared,This report
+11,Prepare the project summary,Prepared,Separate concise summary
+12,Update README and publish and submit,Done,README prepared; final uploads and submission done

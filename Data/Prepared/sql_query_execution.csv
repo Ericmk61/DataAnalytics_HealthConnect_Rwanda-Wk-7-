@@ -1,0 +1,41 @@
+Question,Analysis,Result rows
+1,Retrieve all registered patients,20000
+2,Count patients by gender,2
+3,Count patients by province,5
+4,Identify patients above 65 years,5701
+5,Find patients with chronic diseases,14929
+6,Retrieve patients covered by insurance,20000
+7,Count patients by blood group.,7
+8,List the youngest and oldest patients,469
+9,Identify duplicate phone numbers,10
+10,Calculate average patient age.,1
+11,Count appointments by month,12
+12,Identify busiest hospitals,20
+13,Find busiest departments,200
+14,Find doctors with the highest workload.,350
+15,Identify referral patterns,263
+16,Count emergency appointments,1
+17,Calculate average appointments per doctor ,1
+18,Retrieve appointments by province,5
+19,Identify facilities with the highest patient volume.,20
+20,Find peak consultation periods,6
+21,Top diagnoses,5
+22,Most requested laboratory tests. ,4
+23,Most prescribed medications.,5
+24,Average admission duration,1
+25,Disease severity distribution,3
+26,Laboratory test utilization,4
+27,Prescription trends,13
+28,Referral destinations,20
+29,Admission rate by diagnosis,5
+30,Clinical workload by department,43
+31,Revenue by facility,21
+32,Revenue by department,201
+33,Revenue by service,
+34,Insurance claims by provider,4
+35,Outstanding payments,11887
+36,Average billing amount,1
+37,Monthly revenue trend ,12
+38,Payment methods,4
+39,Top revenue-generating hospitals,10
+40,Financial performance ranking,20
